@@ -1,2 +1,8 @@
-# a13g5-a13g5
-a13g5-a13g5 created by GitHub Classroom
+# AULA 13-GRUPO 5
+# Colaboradores #
+* Seminario, Andrea
+* Senese, Daiana
+* Sorbera Florencia
+* Torres, Joaquin
+
+
